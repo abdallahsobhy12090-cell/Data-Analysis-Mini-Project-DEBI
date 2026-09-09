@@ -1,6 +1,6 @@
-# Data-Analysis-Mini-Project-DEBI
-DEBI Data Analysis Mini Project 🚀
-A comprehensive data analysis mini-project developed as part of the Digital Egypt Builders Initiative (DEBI). This project covers the complete data pipeline—from raw data ingestion to insightful exploratory data analysis (EDA) and visualization using Python.
+# Data-Analysis-Superstore-Sales-DEBI
+DEBI Data Analysis Project 🚀
+A comprehensive data analysis project developed as part of the Digital Egypt Builders Initiative (DEBI). This project covers the complete data pipeline—from raw data ingestion to insightful exploratory data analysis (EDA) and visualization using Python.
 
 📊 Project Overview
 In this project, we took an Excel dataset, loaded it into a Google Colab environment, and performed rigorous data preprocessing, cleaning, and exploratory data analysis to extract actionable business insights for better decision-making.
